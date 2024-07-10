@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I AM RMILI SAAD</h1
 
-- 👨‍🎓 I’m currently work at Alphorm.
+- 👨‍🎓 I’m currently work at home.
 - 👨‍💻 I’m majority working with C#.
 - 📫 How to reach me: saadrmili45@gmail.com .
 - 💬 Ask me about anything!
